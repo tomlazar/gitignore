@@ -10,3 +10,6 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# File used to store debug information, specifically when used with VisualStudioCode and go
+debug
